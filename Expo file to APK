@@ -1,0 +1,12 @@
+1. Expo First Build : https://docs.expo.dev/build/setup/
+2. Download aab ( android application build to local device) 
+3. aab file to apks file 
+	-> make a folder name outpur or ther, and keep the aab file here
+	-> download also a java jar file to convert binary to apks, 
+		Ref: https://medium.com/@mkiziltay/generate-an-apk-file-from-an-aab-file-android-app-bundle-fba80ab63771
+	-> Youtube Video is: https://www.youtube.com/watch?v=3j9DcRCxrFg&t=187s&ab_channel=SujanAnand
+4. apks to zip 
+	-> just rename the apks to zip
+5. unzip , here i will get universal.apk 
+
+This is the actual file 
